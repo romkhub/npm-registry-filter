@@ -1,0 +1,14 @@
+{
+    "name": "npm-registry-filter",
+    "version": "0.0.0-0",
+    "private": "true",
+    "scripts": {
+        "start": "node ./index.js"
+    },
+    "dependencies": {
+        "http-proxy": "^1",
+        "lodash": "^4",
+        "semver": "^5",
+        "server-destroy": "^1"
+    }
+}
